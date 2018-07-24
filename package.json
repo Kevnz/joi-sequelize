@@ -1,6 +1,6 @@
 {
-  "name": "joi-sequelize",
-  "version": "0.2.8",
+  "name": "@kev_nz/joi-sequelize",
+  "version": "1.0.0",
   "scripts": {
     "test": "mocha test --recursive"
   },
@@ -15,6 +15,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mibrito/joi-sequelize.git"
+    "url": "git://github.com/kevnz/joi-sequelize.git"
   }
 }
